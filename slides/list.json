@@ -1,5 +1,15 @@
 [
     "index.md",
     "about.md",
+    "logic-in-view.md",
+    "what-about-conditions.md",
+    "helpers.md",
+    "helpers-procedural.md",
+    "helpers-better.md",
+    "not-model.md",
+    "presenters-comes-in.md",
+    "presenter-code.md",
+    "view-after-presenter.md",
+    "advantages.md",
     "questions.html"
 ]
