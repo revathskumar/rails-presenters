@@ -1,0 +1,4 @@
+[submodule "dist"]
+	path = dist
+	url = git@github.com:revathskumar/krug-yeoman-slides.git
+	branch = gh-pages
