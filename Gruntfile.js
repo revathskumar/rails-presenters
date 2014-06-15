@@ -21,6 +21,7 @@ module.exports = function (grunt) {
                 files: [
                     'index.html',
                     'js/*.js',
+                    'css/*.css',
                     'slides/*.md',
                     'slides/*.html',
                     'slides/list.json'
@@ -88,6 +89,7 @@ module.exports = function (grunt) {
 
                         'bower_components/reveal.js/lib/font/*',
                         'js/*.js',
+                        'css/*.css',
                         'images/{,*/}*.{webp,gif}',
                         'slides/*.{html,md,json}',
                         'index.html',
